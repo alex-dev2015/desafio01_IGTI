@@ -1,0 +1,98 @@
+body{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+    margin: 40px; 
+    align-content: center;
+    background-color: black;
+  background-image: linear-gradient(
+    to right,
+    rgb(4, 165, 84) 35%,
+    rgb(238, 238, 238) 35%,
+    rgb(238, 238, 238) 100%
+  );
+}
+
+h1{
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Ubuntu;
+    margin: 20px;
+}
+
+.container{
+    border-radius: 10px 10px;
+    background: white;
+    border: springgreen solid;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row; 
+    -webkit-box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
+  -moz-box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
+  box-shadow: -35px 32px 34px rgba(50, 50, 50, 0.815);
+  margin-bottom: 5%;
+  background-color: rgb(231, 231, 233);
+}
+
+label{
+    margin-bottom: 10px;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(68, 63, 63);
+    
+    
+}
+
+input{
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 10px;
+    text-align: center;
+    font-family: Roboto;
+    font-style: oblique;
+    border-radius: 10px 10px;
+    border-style: outset;
+    color: gray;
+    width: 120px;
+}
+
+#div_r{
+   align-items: center;
+   display: flex;
+   flex-direction: column; 
+   text-align: left;
+   padding: 10px;
+   margin: 10px;
+}
+#div_g{
+   align-items:center;
+   display: flex;
+   flex-direction: column; 
+   text-align: center;
+   padding: 10px;
+   margin: 10px;
+}
+
+#div_b{
+   align-items: center;
+   display: flex;
+   flex-direction: column; 
+   padding: 10px;
+   margin: 10px;
+}
+
+
+#cubo{
+    margin: 20px;
+    padding: 20px;
+    background: rgb(103, 103, 192);
+    width: 150px;
+    height: 150px;
+    align-items: center;
+    transition: background 100ms;
+
+}
