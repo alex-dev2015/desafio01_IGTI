@@ -1,17 +1,23 @@
 ﻿<p align="center"><img src="https://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg" width="400"></p>
 
-<p align="center">
+<div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
+</div>
+
+---
+
+<p align="center"> Desafio RGB.
+    <br> 
 </p>
  
  
  # Bootcamp Full Stack IGTI
-## Desafio 01
+
 
 O desafio era construir,   utilizando   HTML,   CSS   e   JavaScript   puro,   uma   aplicação   para   a visualização de cores a partir da escala RGB.
 
